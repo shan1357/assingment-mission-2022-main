@@ -1,0 +1,64 @@
+body{
+font-style: italic;
+font-size: large;
+margin: 5%;
+
+font-family: 'Poppins', sans-serif;
+}
+.color-red{
+    color: rgb(240, 105, 56);
+}
+ .orange {
+    color: rgb(136, 80, 145);
+
+ }
+ .tittle-name{
+     display: flex;
+     margin: 50px;
+ }
+ .tittle-name flex{
+     display: flex;
+     margin-bottom: 100px;
+ }
+ .half-width{
+     width: 50%;
+     padding-left: 5px;
+     padding-right: 5px;
+ }
+ .half-width img{
+     width: 70%;
+ }
+ .link-button{
+     text-color: black;
+     text-decoration-line:none;
+     background-color: rgb(238, 85, 85);
+     border-radius: 8px;
+     padding: 10px 25px;
+     font-weight: 700px;
+     font-size: larger;
+ }
+ #foot{
+     background-color: rgb(94, 245, 160);
+     font-style: italic;
+     border-radius: 8px;
+ }
+.color{
+    color: rgb(246, 96, 70);
+}
+    
+
+ 
+
+ 
+ 
+ 
+     
+     
+
+    
+     
+     
+    
+     
+ 
+    
